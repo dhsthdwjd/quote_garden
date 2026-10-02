@@ -3,7 +3,7 @@
   "questions": [
     {
       "id": "q001",
-      "ko": "오늘이 당신의 마지막 날이라면\n어떤 하루를 보내고 싶나요?",
+      "ko": "오늘이 당신의 마지막 날이라면 어떤 하루를 보내고 싶나요?",
       "en": "If today was your last day, how would you like to spend it?"
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "id": "q005",
-      "ko": "나만의 밥도둑!, 난 반찬 '이것'만 있으면\n밥 두공기는 넘게 먹을 수 있다.",
+      "ko": "나만의 밥도둑!, 난 반찬 '이것'만 있으면 밥 두공기는 넘게 먹을 수 있다.",
       "en": "What's your favorite side dish?"
     },
     {
@@ -48,17 +48,17 @@
     },
     {
       "id": "q010",
-      "ko": "당신이 어떤 사람인지 소개해주세요!\n별게아니더라도 좋아요!",
+      "ko": "당신이 어떤 사람인지 소개해주세요! 별게아니더라도 좋아요!",
       "en": "Introduce who you are! Small things are OK!"
     },
     {
       "id": "q011",
-      "ko": "10만원을 가장 알차게 쓸 수 있는\n방법은 무엇일까요?",
+      "ko": "10만원을 가장 알차게 쓸 수 있는 방법은 무엇일까요?",
       "en": "What is the best way to spend $100?"
     },
     {
       "id": "q012",
-      "ko": "당신에게 혼밥하기 가장 좋은 곳과\n그 이유는 무엇인가요?",
+      "ko": "당신에게 혼밥하기 가장 좋은 곳과 그 이유는 무엇인가요?",
       "en": "Is there a good place to have a quiet meal alone? What's a good reason?"
     },
     {
@@ -83,22 +83,22 @@
     },
     {
       "id": "q017",
-      "ko": "늦은 시각, 집에 혼자있는데 누군가\n들어오는 인기척이 느껴진다면!?",
+      "ko": "늦은 시각, 집에 혼자있는데 누군가 들어오는 인기척이 느껴진다면!?",
       "en": "How do you react when you're home alone late at night and you think someone is coming in?"
     },
     {
       "id": "q018",
-      "ko": "'나'라는 사람에 대해서 다른사람들이\n오해하고 있는 것은 무엇인가요?",
+      "ko": "'나'라는 사람에 대해서 다른사람들이 오해하고 있는 것은 무엇인가요?",
       "en": "What are other people's misconceptions about me?"
     },
     {
       "id": "q019",
-      "ko": "사람과 교류를 하는것에 있어,\n자신만의 선은?",
+      "ko": "사람과 교류를 하는것에 있어, 자신만의 선은?",
       "en": "Are there any standards that you are particularly careful about when interacting with people?"
     },
     {
       "id": "q020",
-      "ko": "만약 초능력을 가지게 된다면,\n어떤 능력을 가지고 싶나요?",
+      "ko": "만약 초능력을 가지게 된다면, 어떤 능력을 가지고 싶나요?",
       "en": "If you could have superpowers, what power would you like to have?"
     },
     {
@@ -108,32 +108,32 @@
     },
     {
       "id": "q022",
-      "ko": "당신이 가장 좋아하는\n쌈채소는 무엇인가요?",
+      "ko": "당신이 가장 좋아하는 쌈채소는 무엇인가요?",
       "en": "What is your favorite vegetable?"
     },
     {
       "id": "q023",
-      "ko": "당신은 행복을 위해 얼마만큼의\n돈이 필요하다고 생각하시나요?",
+      "ko": "당신은 행복을 위해 얼마만큼의 돈이 필요하다고 생각하시나요?",
       "en": "How much money do you think you need to be happy?"
     },
     {
       "id": "q024",
-      "ko": "만들어보고싶은 것이 있다면\n그건 무엇을 위한것인가요?",
+      "ko": "만들어보고싶은 것이 있다면 그건 무엇을 위한것인가요?",
       "en": "Is there anything in particular you want to make? What is it for?"
     },
     {
       "id": "q025",
-      "ko": "키워보고싶은 동물이 있나요?\n그 이유도 말해주세요!",
+      "ko": "키워보고싶은 동물이 있나요? 그 이유도 말해주세요!",
       "en": "Do you have an animal you would like to raise? Please tell me why!"
     },
     {
       "id": "q026",
-      "ko": "당신은 미래에, 어떤 모습으로\n어떻게 살아가고싶으신가요?",
+      "ko": "당신은 미래에, 어떤 모습으로 어떻게 살아가고싶으신가요?",
       "en": "Have you ever imagined how you would like to live in the future?"
     },
     {
       "id": "q027",
-      "ko": "갑자기 일 년간 여행을 떠나게 된다면,\n어디로 떠나고싶으신가요?",
+      "ko": "갑자기 일 년간 여행을 떠나게 된다면, 어디로 떠나고싶으신가요?",
       "en": "If you suddenly had to go on a one-year trip, where would you like to go?"
     },
     {
@@ -153,7 +153,7 @@
     },
     {
       "id": "q031",
-      "ko": "당신의 감정을 이모티콘으로\n나타내자면 어떤 모습인가요?",
+      "ko": "당신의 감정을 이모티콘으로 나타내자면 어떤 모습인가요?",
       "en": "If you express your emotions with emoticons, what form would it take?"
     },
     {
@@ -168,22 +168,22 @@
     },
     {
       "id": "q034",
-      "ko": "당신에게 다가왔던 인연에게\n가장 미안했던 적은 언제인가요?",
+      "ko": "당신에게 다가왔던 인연에게 가장 미안했던 적은 언제인가요?",
       "en": "When was the last time you felt sorry for someone else?"
     },
     {
       "id": "q035",
-      "ko": "인생의 방향을 정할 때\n가장 중요한 것은 무엇일까요?",
+      "ko": "인생의 방향을 정할 때 가장 중요한 것은 무엇일까요?",
       "en": "What is the most important thing when deciding the direction of your life?"
     },
     {
       "id": "q036",
-      "ko": "부모님에게 요리를 대접드리게 됐을 때,\n당신은 어떤 요리를 하고싶으신가요?",
+      "ko": "부모님에게 요리를 대접드리게 됐을 때, 당신은 어떤 요리를 하고싶으신가요?",
       "en": "If you could cook for your parents, what kind of dish would you like to cook?"
     },
     {
       "id": "q037",
-      "ko": "당신이 가장 좋아하는\n제철 음식은 무엇인가요?",
+      "ko": "당신이 가장 좋아하는 제철 음식은 무엇인가요?",
       "en": "What's your favorite seasonal food?"
     },
     {
@@ -198,7 +198,7 @@
     },
     {
       "id": "q040",
-      "ko": "당신을 대할 때,\n어떤 점들을 지켜줬으면 좋겠나요?",
+      "ko": "당신을 대할 때, 어떤 점들을 지켜줬으면 좋겠나요?",
       "en": "Which behavior do you dislike the most?"
     },
     {
@@ -213,22 +213,22 @@
     },
     {
       "id": "q043",
-      "ko": "당신이 올해 새롭게 깨닫게 된 것에\n대해 말씀해주세요",
+      "ko": "당신이 올해 새롭게 깨닫게 된 것에 대해 말씀해주세요",
       "en": "Tell us about something new you learned this year."
     },
     {
       "id": "q044",
-      "ko": "괜찮아! 라고 자신있게 말했지만,\n하나도 괜찮지 않았던 적은?",
+      "ko": "괜찮아! 라고 자신있게 말했지만, 하나도 괜찮지 않았던 적은?",
       "en": "Have you ever lied about being okay?"
     },
     {
       "id": "q045",
-      "ko": "당신의 마음을 편하게 만들어주는\n장소는 어디인가요?",
+      "ko": "당신의 마음을 편하게 만들어주는 장소는 어디인가요?",
       "en": "Where is the place that puts your mind at ease?"
     },
     {
       "id": "q046",
-      "ko": "자신이 역사책에 실린다면,\n어떤식으로 실리고 싶으시간요?",
+      "ko": "자신이 역사책에 실린다면, 어떤식으로 실리고 싶으시간요?",
       "en": "If you were to be featured in a history book, how would you like it to appear?"
     },
     {
@@ -238,17 +238,17 @@
     },
     {
       "id": "q048",
-      "ko": "당신에게 가장 중요하지않은 것은\n무엇인가요?(쓰레기 제외!)",
+      "ko": "당신에게 가장 중요하지않은 것은 무엇인가요?(쓰레기 제외!)",
       "en": "What is the least important to you? (Except garbage!)"
     },
     {
       "id": "q049",
-      "ko": "내일의 당신에게 미션 주기!,\n꼭 지켜주세요!!",
+      "ko": "내일의 당신에게 미션 주기!, 꼭 지켜주세요!!",
       "en": "Give a mission to tomorrow's you! ( please keep it!!)"
     },
     {
       "id": "q050",
-      "ko": "당신의 성별이 바뀐다면,\n무엇부터 하고싶으신가요?",
+      "ko": "당신의 성별이 바뀐다면, 무엇부터 하고싶으신가요?",
       "en": "If you could change your gender, what would you like to do first?"
     },
     {
@@ -423,7 +423,7 @@
     },
     {
       "id": "q085",
-      "ko": "사람들은 잘 모르지만,\n알리고 싶은 당신의 장점은?",
+      "ko": "사람들은 잘 모르지만, 알리고 싶은 당신의 장점은?",
       "en": "What are my strengths that I want people to know about?"
     },
     {
@@ -438,12 +438,12 @@
     },
     {
       "id": "q088",
-      "ko": "실패의 경험이 있나요?\n어떤 교훈을 얻었나요?",
+      "ko": "실패의 경험이 있나요? 어떤 교훈을 얻었나요?",
       "en": "Have you experienced failure? What lessons have you learned?"
     },
     {
       "id": "q089",
-      "ko": "하루 중 가장 집중이 잘되는 시간은\n언제인가요?",
+      "ko": "하루 중 가장 집중이 잘되는 시간은 언제인가요?",
       "en": "What time of day do you have the best concentration?"
     },
     {
@@ -495,11 +495,6 @@
       "id": "q099",
       "ko": "오늘 내게 가장 중요한 일은 무엇인가요?",
       "en": "What is the most important thing for me today?"
-    },
-    {
-      "id": "q100",
-      "ko": "마음정원 100문 100답을\n실천해 본 소감은 어떤가요?",
-      "en": "Did you learn something you didn't know about me?"
     }
   ]
 }
