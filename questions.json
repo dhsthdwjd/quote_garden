@@ -1,500 +1,755 @@
 {
-  "version": 1,
+  "version": 2,
   "questions": [
     {
       "id": "q001",
-      "ko": "오늘이 당신의 마지막 날이라면 어떤 하루를 보내고 싶나요?",
-      "en": "If today was your last day, how would you like to spend it?"
+      "ko": "아침형 인간 vs 저녁형 인간, 나는 어느 쪽?",
+      "en": "Morning person or night owl — which one are you?"
     },
     {
       "id": "q002",
-      "ko": "당신은 어떤 맛의 아이스크림을 좋아하시나요?",
-      "en": "What flavor of ice cream do you like?"
+      "ko": "오늘 하루에서 딱 한 장면만 사진으로 남길 수 있다면?",
+      "en": "If you could keep only one moment from today as a photo, which would it be?"
     },
     {
       "id": "q003",
-      "ko": "당신이 가장 당신다워지는 순간은 언제인가요?",
-      "en": "When do you feel the most for yourself?"
+      "ko": "요즘 내 마음을 날씨로 표현한다면?",
+      "en": "If your mood these days were the weather, what would it be?"
     },
     {
       "id": "q004",
-      "ko": "당신이 가장 먼저 떠오르는 노래는 무엇인가요?",
-      "en": "When you think of a good song, what's the first song that comes to mind?"
+      "ko": "아무 말 없이 두 시간 같이 있어도 편한 사람이 있나요?",
+      "en": "Is there someone you could sit with in silence for two hours and still feel comfortable?"
     },
     {
       "id": "q005",
-      "ko": "나만의 밥도둑!, 난 반찬 '이것'만 있으면 밥 두공기는 넘게 먹을 수 있다.",
-      "en": "What's your favorite side dish?"
+      "ko": "평생 한 가지 음식만 먹어야 한다면?",
+      "en": "If you could eat only one food for the rest of your life, what would it be?"
     },
     {
       "id": "q006",
-      "ko": "당신에게 가장 감명 깊었던 영화는 무엇인가요?",
-      "en": "What movie impressed you the most?"
+      "ko": "요즘 나는 ______ 덕분에 생각보다 잘 버티고 있다.",
+      "en": "These days, I'm holding up better than expected thanks to ______."
     },
     {
       "id": "q007",
-      "ko": "당신은 여가시간에 무엇을 하며 보내나요?",
-      "en": "What do you do in your spare time?"
+      "ko": "휴대폰을 열면 가장 먼저 누르는 앱 세 가지는?",
+      "en": "What are the first three apps you open when you pick up your phone?"
     },
     {
       "id": "q008",
-      "ko": "당신에게 가장 감명 깊었던 책은 무엇인가요?",
-      "en": "What book impressed you the most?"
+      "ko": "남들은 단점이라고 하지만 굳이 고치고 싶지 않은 내 모습은?",
+      "en": "What's a trait others call a flaw that you don't really want to fix?"
     },
     {
       "id": "q009",
-      "ko": "당신이 가장 좋아하는 음악은 무엇인가요?",
-      "en": "What is your favorite music or genre?"
+      "ko": "지금 당장 떠날 수 있다면, 바다와 산 중 어디?",
+      "en": "If you could leave right now, would you go to the sea or the mountains?"
     },
     {
       "id": "q010",
-      "ko": "당신이 어떤 사람인지 소개해주세요! 별게아니더라도 좋아요!",
-      "en": "Introduce who you are! Small things are OK!"
+      "ko": "어릴 때는 좋아했는데 어른이 되고 나서 하지 않게 된 것은?",
+      "en": "What did you love as a kid that you stopped doing as an adult?"
     },
     {
       "id": "q011",
-      "ko": "10만원을 가장 알차게 쓸 수 있는 방법은 무엇일까요?",
-      "en": "What is the best way to spend $100?"
+      "ko": "샤워할 때 주로 무슨 생각을 하나요?",
+      "en": "What do you usually think about in the shower?"
     },
     {
       "id": "q012",
-      "ko": "당신에게 혼밥하기 가장 좋은 곳과 그 이유는 무엇인가요?",
-      "en": "Is there a good place to have a quiet meal alone? What's a good reason?"
+      "ko": "최근에 누군가에게 고맙다고 말하지 못한 일이 있나요?",
+      "en": "Is there something recently you wanted to thank someone for but didn't?"
     },
     {
       "id": "q013",
-      "ko": "당신이 가장 바보 같았던 순간은 언제인가요?",
-      "en": "When was the most stupid moment for you?"
+      "ko": "지금 하고 있는 일을 5년 뒤에도 하고 있다면 기분이 어떨 것 같나요?",
+      "en": "If you were still doing what you do now in five years, how would you feel?"
     },
     {
       "id": "q014",
-      "ko": "부모님께 가장 죄송했던 순간은 언제인가요?",
-      "en": "When was the most apologetic moment for your parents?"
+      "ko": "여행 가방에 꼭 챙기는 의외의 물건이 있나요?",
+      "en": "Is there an unexpected item you always pack when you travel?"
     },
     {
       "id": "q015",
-      "ko": "남들은 모르는 자신만의 비밀은?",
-      "en": "What are your secrets that others don't know?"
+      "ko": "요즘 내가 애써 모르는 척하고 있는 감정은?",
+      "en": "What feeling have you been pretending not to notice lately?"
     },
     {
       "id": "q016",
-      "ko": "당신이 가장 이루고싶은 것은 무엇인가요?",
-      "en": "What do you most want to achieve?"
+      "ko": "하루가 25시간이 된다면, 늘어난 1시간에 무엇을 할까요?",
+      "en": "If a day had 25 hours, what would you do with the extra hour?"
     },
     {
       "id": "q017",
-      "ko": "늦은 시각, 집에 혼자있는데 누군가 들어오는 인기척이 느껴진다면!?",
-      "en": "How do you react when you're home alone late at night and you think someone is coming in?"
+      "ko": "내 방에서 가장 오래된 물건은 무엇이고, 왜 아직 가지고 있나요?",
+      "en": "What's the oldest thing in your room, and why do you still have it?"
     },
     {
       "id": "q018",
-      "ko": "'나'라는 사람에 대해서 다른사람들이 오해하고 있는 것은 무엇인가요?",
-      "en": "What are other people's misconceptions about me?"
+      "ko": "친구들이 나를 한 단어로 표현한다면 뭐라고 할까요?",
+      "en": "If your friends described you in one word, what would it be?"
     },
     {
       "id": "q019",
-      "ko": "사람과 교류를 하는것에 있어, 자신만의 선은?",
-      "en": "Are there any standards that you are particularly careful about when interacting with people?"
+      "ko": "커피, 차, 아무것도 안 마심. 나의 선택은?",
+      "en": "Coffee, tea, or neither — what's your pick?"
     },
     {
       "id": "q020",
-      "ko": "만약 초능력을 가지게 된다면, 어떤 능력을 가지고 싶나요?",
-      "en": "If you could have superpowers, what power would you like to have?"
+      "ko": "10년 뒤의 내가 지금의 나에게 전화한다면, 첫마디는 뭘까요?",
+      "en": "If your future self called you from 10 years ahead, what would they say first?"
     },
     {
       "id": "q021",
-      "ko": "당신은 가족에게 어떤 의미인가요?",
-      "en": "What does family mean to you?"
+      "ko": "오늘의 나를 조금 기분 좋게 만들 수 있는 일 하나를 정해본다면?",
+      "en": "Pick one small thing you could do today to put yourself in a better mood."
     },
     {
       "id": "q022",
-      "ko": "당신이 가장 좋아하는 쌈채소는 무엇인가요?",
-      "en": "What is your favorite vegetable?"
+      "ko": "들으면 바로 특정 시절로 돌아가게 되는 노래가 있나요?",
+      "en": "Is there a song that instantly takes you back to a certain time in your life?"
     },
     {
       "id": "q023",
-      "ko": "당신은 행복을 위해 얼마만큼의 돈이 필요하다고 생각하시나요?",
-      "en": "How much money do you think you need to be happy?"
+      "ko": "투명인간이 딱 하루 된다면, 제일 먼저 어디에 갈 건가요?",
+      "en": "If you were invisible for one day, where would you go first?"
     },
     {
       "id": "q024",
-      "ko": "만들어보고싶은 것이 있다면 그건 무엇을 위한것인가요?",
-      "en": "Is there anything in particular you want to make? What is it for?"
+      "ko": "나는 화가 나면 주로 어떻게 행동하나요?",
+      "en": "What do you usually do when you're angry?"
     },
     {
       "id": "q025",
-      "ko": "키워보고싶은 동물이 있나요? 그 이유도 말해주세요!",
-      "en": "Do you have an animal you would like to raise? Please tell me why!"
+      "ko": "아무에게도 보여줄 필요 없는 삶이라면, 나는 어떻게 살고 싶을까?",
+      "en": "If you never had to show your life to anyone, how would you want to live?"
     },
     {
       "id": "q026",
-      "ko": "당신은 미래에, 어떤 모습으로 어떻게 살아가고싶으신가요?",
-      "en": "Have you ever imagined how you would like to live in the future?"
+      "ko": "편의점에서 꼭 집어 드는 단골 메뉴는?",
+      "en": "What do you always grab at a convenience store?"
     },
     {
       "id": "q027",
-      "ko": "갑자기 일 년간 여행을 떠나게 된다면, 어디로 떠나고싶으신가요?",
-      "en": "If you suddenly had to go on a one-year trip, where would you like to go?"
+      "ko": "연락이 뜸해졌지만 가끔 생각나는 사람이 있나요?",
+      "en": "Is there someone you've lost touch with but still think about sometimes?"
     },
     {
       "id": "q028",
-      "ko": "당신의 요즘 상태를 한줄로 적어본다면?",
-      "en": "How would you describe how you are feeling these days in one line?"
+      "ko": "내가 가장 쉽게 돈을 쓰는 곳은 어디인가요?",
+      "en": "What do you spend money on most easily?"
     },
     {
       "id": "q029",
-      "ko": "요즘 즐거운 일들을 나열해 보세요!",
-      "en": "List some fun things to do these days!"
+      "ko": "영화 속 한 장면에 들어갈 수 있다면, 어떤 장면?",
+      "en": "If you could step into one movie scene, which would it be?"
     },
     {
       "id": "q030",
-      "ko": "당신에게 가장 어울리는 색을 고르자면?",
-      "en": "What color do you think suits you best?"
+      "ko": "칭찬을 들으면 나는 솔직히 어떤 기분이 드나요?",
+      "en": "Honestly, how do you feel when someone compliments you?"
     },
     {
       "id": "q031",
-      "ko": "당신의 감정을 이모티콘으로 나타내자면 어떤 모습인가요?",
-      "en": "If you express your emotions with emoticons, what form would it take?"
+      "ko": "완벽한 일요일을 시간 순서대로 짜본다면?",
+      "en": "Plan your perfect Sunday, hour by hour."
     },
     {
       "id": "q032",
-      "ko": "당신이 가장 신경써서 하는 자기관리는!?",
-      "en": "What do you care about most about self-care?"
+      "ko": "내 인생을 영화로 만든다면 제목은?",
+      "en": "If your life were a movie, what would the title be?"
     },
     {
       "id": "q033",
-      "ko": "당신이 살면서 가장 힘들었던 적은 언제인가요?",
-      "en": "When was the most difficult time in your life?"
+      "ko": "최근 사소한 일로 크게 웃었던 순간은?",
+      "en": "When did something small make you laugh really hard recently?"
     },
     {
       "id": "q034",
-      "ko": "당신에게 다가왔던 인연에게 가장 미안했던 적은 언제인가요?",
-      "en": "When was the last time you felt sorry for someone else?"
+      "ko": "부탁을 거절하는 게 쉬운 편인가요, 어려운 편인가요?",
+      "en": "Is it easy or hard for you to say no to people?"
     },
     {
       "id": "q035",
-      "ko": "인생의 방향을 정할 때 가장 중요한 것은 무엇일까요?",
-      "en": "What is the most important thing when deciding the direction of your life?"
+      "ko": "나도 모르게 자꾸 하는 말버릇이 있나요?",
+      "en": "Is there a phrase you catch yourself saying all the time?"
     },
     {
       "id": "q036",
-      "ko": "부모님에게 요리를 대접드리게 됐을 때, 당신은 어떤 요리를 하고싶으신가요?",
-      "en": "If you could cook for your parents, what kind of dish would you like to cook?"
+      "ko": "돈 걱정 없는 지루한 삶 vs 빠듯하지만 좋아하는 일을 하는 삶?",
+      "en": "A boring life with no money worries, or a tight budget doing what you love?"
     },
     {
       "id": "q037",
-      "ko": "당신이 가장 좋아하는 제철 음식은 무엇인가요?",
-      "en": "What's your favorite seasonal food?"
+      "ko": "동물 하나로 다시 태어난다면, 어떤 동물이 되고 싶나요?",
+      "en": "If you were reborn as an animal, which one would you want to be?"
     },
     {
       "id": "q038",
-      "ko": "요즘 당신을 행복하게 만드는 요소는!?",
-      "en": "What makes me happy these days?"
+      "ko": "요즘 나를 가장 지치게 하는 건 무엇인가요?",
+      "en": "What's been draining you the most lately?"
     },
     {
       "id": "q039",
-      "ko": "친구가 당신에게 보증을 서달라고 한다면!?",
-      "en": "What would you do if your friend asked you for an unreasonable request?"
+      "ko": "처음 만난 사람에게 나는 어떤 첫인상일까요?",
+      "en": "What kind of first impression do you think you give?"
     },
     {
       "id": "q040",
-      "ko": "당신을 대할 때, 어떤 점들을 지켜줬으면 좋겠나요?",
-      "en": "Which behavior do you dislike the most?"
+      "ko": "비 오는 날 꼭 하고 싶어지는 일은?",
+      "en": "What do you always feel like doing on a rainy day?"
     },
     {
       "id": "q041",
-      "ko": "자신의 이름으로 삼행시!",
-      "en": "Do you like your name?"
+      "ko": "1년 전의 나에게 딱 한 문장만 보낼 수 있다면?",
+      "en": "If you could send one sentence to yourself a year ago, what would it say?"
     },
     {
       "id": "q042",
-      "ko": "당신이 절대 버릴 수 없는 것은 무엇인가요?",
-      "en": "Is there something you can never throw away?"
+      "ko": "내 장바구니(위시리스트)에 오래 머물러 있는 물건은?",
+      "en": "What item has been sitting in your cart or wishlist the longest?"
     },
     {
       "id": "q043",
-      "ko": "당신이 올해 새롭게 깨닫게 된 것에 대해 말씀해주세요",
-      "en": "Tell us about something new you learned this year."
+      "ko": "누군가와 가까워졌다고 느끼는 순간은 언제인가요?",
+      "en": "When do you feel you've truly become close to someone?"
     },
     {
       "id": "q044",
-      "ko": "괜찮아! 라고 자신있게 말했지만, 하나도 괜찮지 않았던 적은?",
-      "en": "Have you ever lied about being okay?"
+      "ko": "잠들기 직전 마지막으로 하는 일은?",
+      "en": "What's the last thing you do before falling asleep?"
     },
     {
       "id": "q045",
-      "ko": "당신의 마음을 편하게 만들어주는 장소는 어디인가요?",
-      "en": "Where is the place that puts your mind at ease?"
+      "ko": "\"괜찮아\"라고 했지만 사실 괜찮지 않았던 최근의 일은?",
+      "en": "When did you recently say \"I'm fine\" when you really weren't?"
     },
     {
       "id": "q046",
-      "ko": "자신이 역사책에 실린다면, 어떤식으로 실리고 싶으시간요?",
-      "en": "If you were to be featured in a history book, how would you like it to appear?"
+      "ko": "하루 동안 아무 직업이나 체험할 수 있다면?",
+      "en": "If you could try any job for a day, which would you choose?"
     },
     {
       "id": "q047",
-      "ko": "올해 연말은 어떻게 보내고 싶은가요?",
-      "en": "How would you like to spend the end of the year?"
+      "ko": "내가 생각하는 '좋은 어른'은 어떤 사람인가요?",
+      "en": "What does a 'good adult' look like to you?"
     },
     {
       "id": "q048",
-      "ko": "당신에게 가장 중요하지않은 것은 무엇인가요?(쓰레기 제외!)",
-      "en": "What is the least important to you? (Except garbage!)"
+      "ko": "나만 아는 동네의 좋은 장소가 있나요?",
+      "en": "Do you have a favorite spot in your neighborhood that few people know about?"
     },
     {
       "id": "q049",
-      "ko": "내일의 당신에게 미션 주기!, 꼭 지켜주세요!!",
-      "en": "Give a mission to tomorrow's you! ( please keep it!!)"
+      "ko": "누군가 나에게 해준 말 중 아직도 기억에 남는 한마디는?",
+      "en": "What's something someone said to you that you still remember?"
     },
     {
       "id": "q050",
-      "ko": "당신의 성별이 바뀐다면, 무엇부터 하고싶으신가요?",
-      "en": "If you could change your gender, what would you like to do first?"
+      "ko": "짜증 날 때 기분을 푸는 나만의 방법은?",
+      "en": "What's your go-to way to shake off a bad mood?"
     },
     {
       "id": "q051",
-      "ko": "나랑 잘 맞지 않는 사람의 타입은?",
-      "en": "What type of person is not a good fit for me?"
+      "ko": "여름 vs 겨울, 그리고 그 이유는?",
+      "en": "Summer or winter — and why?"
     },
     {
       "id": "q052",
-      "ko": "나를 두근거리게 하는 '무엇'이 있나요?",
-      "en": "What are you most looking forward to right now?"
+      "ko": "지금 가장 미루고 있는 일은 무엇인가요?",
+      "en": "What are you putting off the most right now?"
     },
     {
       "id": "q053",
-      "ko": "가장 최근에 눈물을 흘렸던 기억은?",
-      "en": "What's the last time you cried?"
+      "ko": "가족 중 나와 가장 닮은 사람은 누구이고, 어디가 닮았나요?",
+      "en": "Who in your family are you most like, and how?"
     },
     {
       "id": "q054",
-      "ko": "최근 가장 몰입해서 한 일은?",
-      "en": "What have you been most preoccupied with lately?"
+      "ko": "내 인생 최고의 한 끼는 언제, 어디서였나요?",
+      "en": "What was the best meal of your life, and where was it?"
     },
     {
       "id": "q055",
-      "ko": "가장 가까운 사람은 나에게 어떤 의미인가요?",
-      "en": "What does the most precious person mean to you?"
+      "ko": "요즘 내가 가장 자주 하는 걱정은 실제로 일어날 가능성이 얼마나 될까요?",
+      "en": "How likely is the thing you worry about most these days to actually happen?"
     },
     {
       "id": "q056",
-      "ko": "올해 세웠던 목표를 잘 실천하고 있나요?",
-      "en": "Are you living up to the goals you set this year?"
+      "ko": "내 하루에서 없어져도 전혀 아쉽지 않을 시간은?",
+      "en": "Which part of your day wouldn't you miss at all if it disappeared?"
     },
     {
       "id": "q057",
-      "ko": "집중을 잘하기 위한 나만의 방법은?",
-      "en": "What is your own know-how to focus well?"
+      "ko": "능력 하나를 하루아침에 마스터할 수 있다면?",
+      "en": "If you could master one skill overnight, what would it be?"
     },
     {
       "id": "q058",
-      "ko": "힘들 때 위로가 되어 준 음악이 있다면?",
-      "en": "Is there any music that has comforted you when you are having a hard time?"
+      "ko": "혼자 있는 시간과 함께 있는 시간, 어느 쪽에서 더 충전되나요?",
+      "en": "Do you recharge more by being alone or being with people?"
     },
     {
       "id": "q059",
-      "ko": "내 안에 어떤 트라우마가 있나요?",
-      "en": "What trauma is inside me?"
+      "ko": "요즘 나는 ______ 할 때 가장 나다운 것 같다.",
+      "en": "Lately, I feel most like myself when I ______."
     },
     {
       "id": "q060",
-      "ko": "나도 모르게 습관적으로 하는 버릇이 있나요?",
-      "en": "Do you have a habit you want to change? What have you tried to fix it?"
+      "ko": "갖고 있는 옷 중 가장 아끼는 한 벌은?",
+      "en": "What's the one piece of clothing you treasure most?"
     },
     {
       "id": "q061",
-      "ko": "망설이거나 주저하는 것이 있나요?",
-      "en": "Are you hesitating about anything right now?"
+      "ko": "내가 먼저 사과하기 어려운 이유가 있다면?",
+      "en": "If it's hard for you to apologize first, why do you think that is?"
     },
     {
       "id": "q062",
-      "ko": "타인에게 들었을 때 가장 기분 좋은 말은?",
-      "en": "What was the happiest compliment in your life?"
+      "ko": "타임머신이 있다면 과거와 미래 중 어디로 갈 건가요?",
+      "en": "If you had a time machine, would you go to the past or the future?"
     },
     {
       "id": "q063",
-      "ko": "일상에 어떤 변화가 필요한가요?",
-      "en": "What changes do you need in your daily life?"
+      "ko": "최근에 나 자신이 조금 자랑스러웠던 순간은?",
+      "en": "When did you feel a little proud of yourself recently?"
     },
     {
       "id": "q064",
-      "ko": "아쉬움이 많이 남는 것이 있다면?",
-      "en": "Is there anything you regret a lot?"
+      "ko": "알람을 몇 개 맞춰두는 편인가요?",
+      "en": "How many alarms do you usually set?"
     },
     {
       "id": "q065",
-      "ko": "나에게 나이듦이란?",
-      "en": "What does aging mean to me?"
+      "ko": "정말 소중한 것 세 가지만 남기고 다 버려야 한다면?",
+      "en": "If you had to give up everything except three things, what would you keep?"
     },
     {
       "id": "q066",
-      "ko": "옛날에 나, 지금의 나는?",
-      "en": "Are the me of the past and the me of today very different?"
+      "ko": "나를 웃게 만드는 사람은 누구인가요?",
+      "en": "Who always makes you laugh?"
     },
     {
       "id": "q067",
-      "ko": "그리운 사람이 았나요?",
-      "en": "Do you miss someone?"
+      "ko": "요즘 자주 보는 영상이나 콘텐츠는 어떤 종류인가요?",
+      "en": "What kind of videos or content have you been watching a lot lately?"
     },
     {
       "id": "q068",
-      "ko": "최근 가장 크게 웃었던 기억은?",
-      "en": "What's the last memory you laughed the most?"
+      "ko": "아무도 나를 모르는 도시에서 한 달 산다면, 무엇을 해보고 싶나요?",
+      "en": "If you lived for a month in a city where no one knew you, what would you try?"
     },
     {
       "id": "q069",
-      "ko": "작지만 내게 기쁨을 주는 것이 있다면?",
-      "en": "It's a small thing, but what makes me happy?"
+      "ko": "최근 나를 서운하게 했지만 말하지 못한 일이 있나요?",
+      "en": "Has something hurt your feelings recently that you didn't say out loud?"
     },
     {
       "id": "q070",
-      "ko": "요즘 갖고 싶은 것이 있나요?",
-      "en": "Is there anything you would like to have these days?"
+      "ko": "길거리에서 들리면 나도 모르게 따라 부르는 노래는?",
+      "en": "What song can't you help singing along to when you hear it?"
     },
     {
       "id": "q071",
-      "ko": "최근에 불안하거나 초조했던 적이 있나요?",
-      "en": "Have you been anxious lately?"
+      "ko": "'이 정도면 충분하다'고 느끼는 기준은 무엇인가요?",
+      "en": "What's your measure of 'this is enough'?"
     },
     {
       "id": "q072",
-      "ko": "마음을 터놓을 친구가 있나요?",
-      "en": "Do you have friends with whom you share secrets?"
+      "ko": "로또 1등에 당첨되면 가장 먼저 알릴 사람은?",
+      "en": "If you won the lottery, who would you tell first?"
     },
     {
       "id": "q073",
-      "ko": "나에게 돈이란 무엇일까?",
-      "en": "What does money mean to me?"
+      "ko": "요즘 나를 설레게 하는 작은 기대가 있나요?",
+      "en": "Is there something small you're looking forward to these days?"
     },
     {
       "id": "q074",
-      "ko": "최근에 친절을 베풀었던 경험이 있다면?",
-      "en": "What has been the last thing you've been kind to others?"
+      "ko": "내가 남에게 쉽게 맡기지 못하는 일은 무엇인가요?",
+      "en": "What's something you find hard to leave to someone else?"
     },
     {
       "id": "q075",
-      "ko": "당신이 좋아하는 노래 가사가 있나요?",
-      "en": "Do you have your favorite song lyrics?"
+      "ko": "좋아하는 냄새가 있나요? 어떤 기억과 연결되어 있나요?",
+      "en": "Is there a smell you love? What memory is it tied to?"
     },
     {
       "id": "q076",
-      "ko": "나에게 잘 어울리는 색상은?",
-      "en": "Which color suits me well?"
+      "ko": "지금 내 삶에서 가장 잘하고 있다고 생각하는 부분은?",
+      "en": "What part of your life do you think you're handling best right now?"
     },
     {
       "id": "q077",
-      "ko": "내가 닮고 싶은 사람은?",
-      "en": "Who do I want to be like?"
+      "ko": "SNS를 일주일 끊는다면 가장 먼저 무엇이 그리울까요?",
+      "en": "If you quit social media for a week, what would you miss first?"
     },
     {
       "id": "q078",
-      "ko": "나만의 특별한 취미가 있다면?",
-      "en": "Do you have any special hobbies of your own?"
+      "ko": "누군가에게 진심으로 위로받았던 순간은?",
+      "en": "When did someone truly comfort you?"
     },
     {
       "id": "q079",
-      "ko": "요즘 제일 많이 듣는 음악은?",
-      "en": "What music do you listen to the most these days?"
+      "ko": "남은 인생 동안 한 계절만 살아야 한다면?",
+      "en": "If you could live in only one season for the rest of your life, which would it be?"
     },
     {
       "id": "q080",
-      "ko": "최근 내 마음에 와 닿는 글귀가 있었다면?",
-      "en": "What if there was a phrase that touched my heart recently?"
+      "ko": "내가 정말 싫어하는데 남들은 좋아하는 것은?",
+      "en": "What's something everyone seems to love that you just don't?"
     },
     {
       "id": "q081",
-      "ko": "애써 참고 있는 것이 있나요?",
-      "en": "It's hard, but is there anything you're holding on to?"
+      "ko": "요즘 나에게 가장 필요한 말은 무엇인가요?",
+      "en": "What words do you most need to hear right now?"
     },
     {
       "id": "q082",
-      "ko": "나에게 가족이란 어떤 의미인가요?",
-      "en": "What does family mean to me?"
+      "ko": "새로운 걸 배운다면, 악기·언어·운동 중 무엇을 고를까요?",
+      "en": "If you picked up something new — an instrument, a language, or a sport — which would it be?"
     },
     {
       "id": "q083",
-      "ko": "다른 사람들에게 보여지는 당신의 모습은?",
-      "en": "How do you think people will see you? (What do other people think of me?)"
+      "ko": "다른 사람의 어떤 행동에 쉽게 마음이 열리나요?",
+      "en": "What kind of behavior makes you open up to someone easily?"
     },
     {
       "id": "q084",
-      "ko": "성공한 삶이란 무엇일까요?",
-      "en": "What is a successful life?"
+      "ko": "오늘 하루를 이모지 세 개로 요약한다면?",
+      "en": "Sum up your day in three emojis."
     },
     {
       "id": "q085",
-      "ko": "사람들은 잘 모르지만, 알리고 싶은 당신의 장점은?",
-      "en": "What are my strengths that I want people to know about?"
+      "ko": "포기했지만 아직 마음 한쪽에 남아 있는 꿈이 있나요?",
+      "en": "Is there a dream you gave up on that still lingers somewhere in your heart?"
     },
     {
       "id": "q086",
-      "ko": "스스로 성장했다고 느낄때는?",
-      "en": "When do you feel you have grown?"
+      "ko": "집에서 가장 좋아하는 자리는 어디인가요?",
+      "en": "What's your favorite spot at home?"
     },
     {
       "id": "q087",
-      "ko": "내 인생에 영향을 준 책들이 있다면?",
-      "en": "Are there any books that have influenced your life?"
+      "ko": "내가 가장 무방비하게 행복해지는 순간은?",
+      "en": "When do you feel happy without even trying?"
     },
     {
       "id": "q088",
-      "ko": "실패의 경험이 있나요? 어떤 교훈을 얻었나요?",
-      "en": "Have you experienced failure? What lessons have you learned?"
+      "ko": "다시 학생이 된다면 꼭 다르게 해보고 싶은 것은?",
+      "en": "If you were a student again, what would you do differently?"
     },
     {
       "id": "q089",
-      "ko": "하루 중 가장 집중이 잘되는 시간은 언제인가요?",
-      "en": "What time of day do you have the best concentration?"
+      "ko": "나는 결정할 때 머리를 믿나요, 마음을 믿나요?",
+      "en": "When you make decisions, do you trust your head or your heart?"
     },
     {
       "id": "q090",
-      "ko": "'엄마'하면 생각나는 음식이 있나요?",
-      "en": "Is there any food that comes to mind when you think of mom?"
+      "ko": "하루 동안 다른 사람의 삶을 살아볼 수 있다면 누구?",
+      "en": "If you could live someone else's life for a day, whose would it be?"
     },
     {
       "id": "q091",
-      "ko": "한 가지 작은 목표를 세워본다면?",
-      "en": "If you could set one small goal, what would it be?"
+      "ko": "최근 처음 해본 일이 있나요?",
+      "en": "What's something you did for the first time recently?"
     },
     {
       "id": "q092",
-      "ko": "유용하게 사용하는 모바일 앱 3가지?",
-      "en": "3 useful mobile apps?"
+      "ko": "내가 좋아하는 사람들의 공통점은?",
+      "en": "What do the people you like have in common?"
     },
     {
       "id": "q093",
-      "ko": "최근 가장 대화를 오래한 사람은?",
-      "en": "Who has the longest conversation you had recently?"
+      "ko": "스트레스를 받으면 당기는 음식은?",
+      "en": "What food do you crave when you're stressed?"
     },
     {
       "id": "q094",
-      "ko": "가까워지기 위해 노력하는 사람이 있나요?",
-      "en": "Is there anyone you would like to get to know?"
+      "ko": "나를 가장 잘 아는 사람은 내가 모르는 나에 대해 뭐라고 말할까요?",
+      "en": "What would the person who knows you best say about you that you might not realize?"
     },
     {
       "id": "q095",
-      "ko": "주말을 어떻게 보낼 예정인가요?",
-      "en": "How are you going to spend your weekend?"
+      "ko": "선물 받기 vs 선물 주기, 더 즐거운 쪽은?",
+      "en": "Receiving gifts or giving them — which do you enjoy more?"
     },
     {
       "id": "q096",
-      "ko": "지우고 싶은 기억이 있나요?",
-      "en": "Do you have any memories you want to erase?"
+      "ko": "올해가 끝나기 전에 꼭 해보고 싶은 한 가지는?",
+      "en": "What's one thing you want to do before this year ends?"
     },
     {
       "id": "q097",
-      "ko": "최근 누군가를 칭찬한 적이 있나요?",
-      "en": "Have you praised someone recently?"
+      "ko": "나를 진짜 화나게 만드는 의외의 사소한 것은?",
+      "en": "What surprisingly small thing really gets on your nerves?"
     },
     {
       "id": "q098",
-      "ko": "요즘 자주하는 다짐은?",
-      "en": "What promises do you often make to me these days?"
+      "ko": "지금의 나를 만든 결정적인 선택 하나를 꼽는다면?",
+      "en": "What's one choice that shaped who you are today?"
     },
     {
       "id": "q099",
-      "ko": "오늘 내게 가장 중요한 일은 무엇인가요?",
-      "en": "What is the most important thing for me today?"
+      "ko": "오늘 나에게 해주고 싶은 칭찬 한마디는?",
+      "en": "What's one compliment you'd like to give yourself today?"
+    },
+    {
+      "id": "q100",
+      "ko": "오늘 이 질문들에 답하며 새롭게 알게 된 나는?",
+      "en": "What's one new thing you've discovered about yourself today?"
+    },
+    {
+      "id": "q101",
+      "ko": "처음 만난 사람과 대화할 때 가장 먼저 보는 건 말투, 표정, 분위기 중 무엇인가요?",
+      "en": "When you first meet someone, what do you notice first — the way they speak, their expressions, or their overall vibe?"
+    },
+    {
+      "id": "q102",
+      "ko": "내가 피곤할 때 가장 먼저 포기하는 것은 무엇인가요?",
+      "en": "What is the first thing you tend to give up on when you're tired?"
+    },
+    {
+      "id": "q103",
+      "ko": "요즘 내 삶에 배경음악이 깔린다면 어떤 분위기의 곡일까요?",
+      "en": "If your life had background music these days, what kind of song would it be?"
+    },
+    {
+      "id": "q104",
+      "ko": "누군가 나를 오해했을 때 바로잡는 편인가요? 그냥 두는 편인가요?",
+      "en": "When someone misunderstands you, do you correct them right away or just let it be?"
+    },
+    {
+      "id": "q105",
+      "ko": "한 달 동안 매일 같은 옷을 입어야 한다면 어떤 옷을 고를까요?",
+      "en": "If you had to wear the same outfit every day for a month, what would you choose?"
+    },
+    {
+      "id": "q106",
+      "ko": "지나고 나서 더 후회되는 건, 해버린 일인가요? 해보지 않은 일인가요?",
+      "en": "Looking back, which do you regret more — things you did or things you never tried?"
+    },
+    {
+      "id": "q107",
+      "ko": "내가 진짜 편하다고 느끼는 공간에는 어떤 공통점이 있나요?",
+      "en": "What do the places where you feel truly comfortable have in common?"
+    },
+    {
+      "id": "q108",
+      "ko": "지금의 나를 색 하나로 표현한다면 무슨 색인가요?",
+      "en": "If you had to describe your current self with one color, what would it be?"
+    },
+    {
+      "id": "q109",
+      "ko": "사람들이 나에게 자주 부탁하는 일은 무엇인가요?",
+      "en": "What do people often ask you for help with?"
+    },
+    {
+      "id": "q110",
+      "ko": "휴대폰 사진첩에서 가장 많은 비중을 차지하는 사진은 어떤 종류인가요?",
+      "en": "What kind of photos take up most of your camera roll?"
+    },
+    {
+      "id": "q111",
+      "ko": "하루 중 가장 마음이 느슨해지는 시간은 언제인가요?",
+      "en": "What time of day do you feel most at ease?"
+    },
+    {
+      "id": "q112",
+      "ko": "내가 잘한다고 생각하지만 남들은 잘 모르는 것은?",
+      "en": "What's something you're good at that most people don't know about?"
+    },
+    {
+      "id": "q113",
+      "ko": "최근 나를 가장 크게 바꾼 작은 습관은 무엇인가요?",
+      "en": "What's a small habit that has changed you the most recently?"
+    },
+    {
+      "id": "q114",
+      "ko": "누군가를 오래 좋아하게 되는 데 가장 중요한 건 무엇인가요?",
+      "en": "What matters most for you to keep liking someone for a long time?"
+    },
+    {
+      "id": "q115",
+      "ko": "내가 생각하는 완벽한 휴식은? 아무것도 안 한다 vs 좋아하는 걸 한다",
+      "en": "My idea of perfect rest? Doing nothing vs doing something I love"
+    },
+    {
+      "id": "q116",
+      "ko": "지금 당장 100만 원이 생긴다면 저축, 소비, 여행 중 어디에 쓸까요?",
+      "en": "If you suddenly got one million won, would you save it, spend it, or travel with it?"
+    },
+    {
+      "id": "q117",
+      "ko": "내가 평소보다 말이 많아지는 순간은 언제인가요?",
+      "en": "When do you become more talkative than usual?"
+    },
+    {
+      "id": "q118",
+      "ko": "과거의 나에게 하나의 물건을 보내줄 수 있다면 무엇을 보낼까요?",
+      "en": "If you could send one object to your past self, what would it be?"
+    },
+    {
+      "id": "q119",
+      "ko": "내가 좋아하는 사람에게는 어떤 모습까지 보여줄 수 있나요?",
+      "en": "How much of your true self can you show to someone you like?"
+    },
+    {
+      "id": "q120",
+      "ko": "혼자 여행을 간다면 가장 먼저 해보고 싶은 것은?",
+      "en": "If you traveled alone, what would you want to do first?"
+    },
+    {
+      "id": "q121",
+      "ko": "내가 생각보다 오래 붙잡고 있는 미련은 무엇인가요?",
+      "en": "What are you holding onto longer than you expected?"
+    },
+    {
+      "id": "q122",
+      "ko": "하루 동안 인터넷 없이 지낸다면 무엇을 하게 될까요?",
+      "en": "What would you do if you spent a whole day without the internet?"
+    },
+    {
+      "id": "q123",
+      "ko": "최근 내가 괜히 예민하게 반응했던 일은 무엇이었나요?",
+      "en": "What did you react to more sensitively than necessary recently?"
+    },
+    {
+      "id": "q124",
+      "ko": "내가 자주 비교하게 되는 대상은 누구 또는 무엇인가요?",
+      "en": "Who or what do you find yourself comparing yourself to most often?"
+    },
+    {
+      "id": "q125",
+      "ko": "살면서 꼭 한 번은 해보고 싶은 조금 무모한 일은?",
+      "en": "What's one slightly reckless thing you'd like to try at least once in your life?"
+    },
+    {
+      "id": "q126",
+      "ko": "나는 어떤 순간에 '내가 좀 컸구나'라고 느끼나요?",
+      "en": "When do you feel like you've really grown as a person?"
+    },
+    {
+      "id": "q127",
+      "ko": "집에 손님이 온다면 가장 먼저 치우는 곳은 어디인가요?",
+      "en": "What's the first place you clean when someone is coming over?"
+    },
+    {
+      "id": "q128",
+      "ko": "다른 사람이 나를 부러워할 만한 점이 있다면 무엇일까요?",
+      "en": "What's something about your life that others might envy?"
+    },
+    {
+      "id": "q129",
+      "ko": "내가 가장 듣기 싫어하는 말은 무엇인가요?",
+      "en": "What's something you really hate hearing?"
+    },
+    {
+      "id": "q130",
+      "ko": "오늘 하루 아무 책임도 없다면 무엇부터 할까요?",
+      "en": "If you had no responsibilities today, what would you do first?"
+    },
+    {
+      "id": "q131",
+      "ko": "내가 누군가에게 쉽게 정을 주는 편이라면, 그 이유는 무엇일까요?",
+      "en": "If you tend to get attached to people easily, why do you think that is?"
+    },
+    {
+      "id": "q132",
+      "ko": "요즘 내 머릿속을 가장 많이 차지하는 생각 하나는?",
+      "en": "What's the one thought taking up most of your mind these days?"
+    },
+    {
+      "id": "q133",
+      "ko": "내가 절대 포기하고 싶지 않은 생활 방식 하나는?",
+      "en": "What's one part of your lifestyle you never want to give up?"
+    },
+    {
+      "id": "q134",
+      "ko": "처음에는 싫었는데 나중에 좋아하게 된 것이 있나요?",
+      "en": "Is there something you disliked at first but grew to love?"
+    },
+    {
+      "id": "q135",
+      "ko": "내가 가장 쉽게 긴장하는 상황은 언제인가요?",
+      "en": "What kind of situation makes you nervous most easily?"
+    },
+    {
+      "id": "q136",
+      "ko": "누군가 나를 떠올릴 때 어떤 사람으로 기억했으면 하나요?",
+      "en": "How would you like people to remember you?"
+    },
+    {
+      "id": "q137",
+      "ko": "최근 가장 많이 사용한 이모지는 무엇이고, 왜 그 이모지를 많이 썼을까요?",
+      "en": "Which emoji have you used the most lately, and why do you think that is?"
+    },
+    {
+      "id": "q138",
+      "ko": "내가 가장 지키기 어려운 약속은 남과의 약속인가요, 나 자신과의 약속인가요?",
+      "en": "Which is harder for you to keep — promises to others or promises to yourself?"
+    },
+    {
+      "id": "q139",
+      "ko": "하루 동안 시간을 멈출 수 있다면 가장 먼저 무엇을 할까요?",
+      "en": "If you could stop time for a day, what would you do first?"
+    },
+    {
+      "id": "q140",
+      "ko": "내가 생각하는 '성공했다'의 기준은 무엇인가요?",
+      "en": "What does 'being successful' mean to you?"
+    },
+    {
+      "id": "q141",
+      "ko": "최근에 괜히 사고 싶었던 물건은 무엇인가요?",
+      "en": "What's something you've recently wanted to buy for no particular reason?"
+    },
+    {
+      "id": "q142",
+      "ko": "나에게 가장 큰 영향을 준 선생님이나 어른이 있나요?",
+      "en": "Was there a teacher or adult who had a big influence on you?"
+    },
+    {
+      "id": "q143",
+      "ko": "나는 힘들 때 혼자 있고 싶은 편인가요, 누군가를 찾는 편인가요?",
+      "en": "When you're having a hard time, do you want to be alone or seek someone out?"
+    },
+    {
+      "id": "q144",
+      "ko": "내가 남들보다 조금 유난스럽다고 생각하는 취향은?",
+      "en": "What's a preference of yours that you think is a little unusual?"
+    },
+    {
+      "id": "q145",
+      "ko": "요즘 내 삶에서 줄이고 싶은 것은 무엇인가요?",
+      "en": "What do you want less of in your life these days?"
+    },
+    {
+      "id": "q146",
+      "ko": "반대로 요즘 내 삶에서 더 늘리고 싶은 것은 무엇인가요?",
+      "en": "And what do you want more of in your life these days?"
+    },
+    {
+      "id": "q147",
+      "ko": "내가 가장 쉽게 마음을 닫게 되는 말이나 행동은 무엇인가요?",
+      "en": "What kind of words or behavior make you shut down emotionally the fastest?"
+    },
+    {
+      "id": "q148",
+      "ko": "지금 나에게 일주일의 완전한 자유시간이 생긴다면 어떻게 보내고 싶나요?",
+      "en": "If you suddenly had a full week completely to yourself, how would you spend it?"
+    },
+    {
+      "id": "q149",
+      "ko": "요즘의 나를 한 문장으로 소개한다면 뭐라고 말하고 싶나요?",
+      "en": "If you had to introduce the current version of yourself in one sentence, what would you say?"
+    },
+    {
+      "id": "q150",
+      "ko": "지금까지의 질문 중 앞으로의 나에게 가장 오래 남았으면 하는 답은 무엇인가요?",
+      "en": "Of all these questions, which answer would you most want your future self to remember?"
     }
   ]
 }
